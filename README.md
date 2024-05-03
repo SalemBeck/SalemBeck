@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SalemBeck
-- 👀 I’m interested in web developement and
-- 🌱 I’m currently learning c and java script
-- 💞️ I’m looking to collaborate on making some projects 
+-  Hi, I’m @SalemBeck
+-  web developer
+-  c/python/html/css/js
 - 📫 How to reach me :
 - via instagram : https://rb.gy/xqbu6j
 - via facebook : https://rb.gy/3urtfz
